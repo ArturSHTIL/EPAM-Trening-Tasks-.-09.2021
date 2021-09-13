@@ -31,7 +31,6 @@ def count_character_frequency(string_for_dict: str) -> dict:
 
 
 # Task 1.3
-
 def unique_words(words: list) -> list:
     """
     Write a Python program that accepts a comma separated sequence of words as input and
@@ -45,7 +44,6 @@ def unique_words(words: list) -> list:
 
 
 # Task 1.4
-
 def divisors_of_number(number: int) -> set:
     """
     Create a program that asks the user for a number and then prints out a list of all the [divisors] of that number.
@@ -62,7 +60,6 @@ def divisors_of_number(number: int) -> set:
 
 
 # Task 1.5
-
 def sorted_dictionary(dictionary: dict) -> dict:
     """
     Write a Python program to sort a dictionary by key.
@@ -77,7 +74,6 @@ def sorted_dictionary(dictionary: dict) -> dict:
 
 
 # Task 1.6
-
 def unique_values(dictionary: list) -> set:
     """
     Write a Python program to print all unique values of all dictionaries in a list.
@@ -94,7 +90,6 @@ def unique_values(dictionary: list) -> set:
 
 
 # Task 1.7
-
 def tuple_to_an_integer(tuple_int: tuple) -> int:
     """
     Write a Python program to convert a given tuple of positive integers into an integer.
@@ -107,7 +102,6 @@ def tuple_to_an_integer(tuple_int: tuple) -> int:
 
 
 # Task 1.8
-
 def multiplication_table(a: int, b: int, c: int, d: int):
     """
     # Write a program which makes a pretty print of a part of the multiplication table.
